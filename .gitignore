@@ -33,3 +33,4 @@ dist/
 
 # Other
 *.DS_Store
+.vscode/settings.json
